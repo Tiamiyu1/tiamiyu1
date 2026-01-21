@@ -1,9 +1,9 @@
 # Hello👋 # I am Abdulwasiu
 
-> I am a data analyst with over 3 years of experience in the data field. I take pleasure in assisting beginners in data science to overcome the challenges they regularly face. I enjoy data-driven approaches.
+> I am a data analyst with over 4 years of experience in the data field. I take pleasure in assisting beginners in data science to overcome the challenges they regularly face. I enjoy data-driven approaches.
 
 ## My life in a bit
-- 📚 I have a bachelor's degree in microbiology (Nigeria) and a master's degree in collective intelligence (Morocco)
+- 📚 I have a bachelor's degree in microbiology and a master's degree in collective intelligence
 - 🏢 I have worked as a data analyst at Ingressive for Good (internship)
 - 👨‍🏫 I am a data mentor
   - Data analyst session lead at Udacity, where I have trained over 300 learners from different nationalities
